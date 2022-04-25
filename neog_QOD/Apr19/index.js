@@ -15,6 +15,7 @@ function reverseWordWise(string) {
     } else {
       astring += string[index];
       if (prev !== "_") {
+      .,
         newString += "_";
         prev = "_";
       }

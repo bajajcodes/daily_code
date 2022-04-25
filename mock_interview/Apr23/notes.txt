@@ -1,0 +1,14 @@
+- what is deep copy and shallow copy objects
+- memorization
+- optimization techniques in react
+- deep and shallow copy for arrays
+- how infinite scroll works
+- write own methods for deep and shallow copies such as object.assign()
+- different ways empty an array
+- Why arguments are not in arrow functions
+- what is strict mode and why use it 
+- what is debouncing
+- what is memorization and optimization
+- How to do optimization in react
+- How to do debouncing in react
+- 
