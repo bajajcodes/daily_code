@@ -1,3 +1,4 @@
+
 var startTime = performance.now();
 
 var endTime = performance.now();

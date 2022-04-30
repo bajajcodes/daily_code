@@ -1,4 +1,4 @@
-class Stack {
+export default class Stack {
   data = [];
   size = 0;
   currentIndex = -1;
@@ -58,6 +58,8 @@ class Stack {
     return isDone;
   }
 }
+
+
 function reverseString(string) {
   let length = string.length;
   const stack = new Stack(length);
@@ -71,4 +73,4 @@ function reverseString(string) {
     stack.topOfStack()
   );
 }
-reverseString("Apple");
+//reverseString("Apple");
