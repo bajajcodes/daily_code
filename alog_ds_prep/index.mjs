@@ -1,6 +1,9 @@
 
 var startTime = performance.now();
 
+import Stack from "./Stack.1.mjs";
+console.log(Stack);
+
 var endTime = performance.now();
 
 console.log(
