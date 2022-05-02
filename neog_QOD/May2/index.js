@@ -71,4 +71,4 @@ function countFruits(fruits, summerFruits) {
   return count;
 }
 
-countFruits("aaAAbbbb", "");
+//countFruits("aaAAbbbb", "");
